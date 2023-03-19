@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
-* main -> program when assigned a random number
-* returns whether it is negative, positive or zero
+/**
+* main - program when assigned a random number returns whether it is negative, positive or zero
 * Return: 0 (Success)
 */
 int main(void)
