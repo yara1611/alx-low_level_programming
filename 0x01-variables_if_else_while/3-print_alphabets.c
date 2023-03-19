@@ -1,4 +1,3 @@
-File Edit Options Buffers Tools C Help                                       
 #include <stdio.h>
 /**
 *main - a program that prints the alphabet in lower case then in uppercase
