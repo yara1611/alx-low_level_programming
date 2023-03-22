@@ -3,8 +3,11 @@
 * _putchar - a program that prints _putchar, followed by a new line.
 * Return: 0 (Success)
 */
-int _putchar(String s)
+int _putchar(char c)
 {
-printf(s);
+while(c!=NULL)
+{
+printf(c);
+}
 return (0);
 }
