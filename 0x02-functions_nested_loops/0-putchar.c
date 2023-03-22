@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
 * _putchar - a program that prints _putchar, followed by a new line.
 * @c: the character to print
